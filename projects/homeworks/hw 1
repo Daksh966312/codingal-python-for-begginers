@@ -1,0 +1,6 @@
+print("my daily routine:-") 
+print("my daily routine starts with waking up and brushing my teeth")
+print("then i attend my classes and learn")
+print("and then i enjoy with my freinds for about an hour")
+print("after that, i do all my homeworks and study or practice or complete pending work or homeworks")
+print("i study for about 4 hours everyday taking breaks in between so in a week i study for-", 4 * 7)
