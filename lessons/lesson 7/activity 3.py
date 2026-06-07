@@ -16,3 +16,5 @@ elif marks in range(61, 71):
 
 elif marks in range(1, 61):
     print("fail")
+
+
