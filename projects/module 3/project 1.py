@@ -1,8 +1,8 @@
-def circle_area(r):
-    return 22/7 * r**2
+def circle_circumference(r):
+    return 22/7 * 2 * r
 
 r = 13.7
 
-print(circle_area(r))
+print(circle_circumference(r))
 
 
