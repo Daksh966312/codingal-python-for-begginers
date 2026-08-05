@@ -3,8 +3,7 @@ import random
 
 length = int(input("enter password: "))
 
-characters = string.ascii_letters
-string.ascii_uppercase + string.digits
+characters = string.ascii_letters + string.digits
 
 password = ""
 
