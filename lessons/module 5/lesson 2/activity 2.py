@@ -9,6 +9,6 @@ print("will now create the object")
 
 chat = WhatsApp()
 
-del chat
+del chat 
 
 print("program ends here...")
